@@ -1,0 +1,24 @@
+/* 
+	Author: Dewan Imtiaz Been Emran
+	Theme Name: Personal portfolio website
+
+
+ */
+
+ @font-face{
+ 	font-family: roboto;
+ 	src:url("fonts/Roboto-Regular.ttf");
+ }
+
+ body{
+ 	font-family: roboto !important;
+
+ }
+
+ /* header part */
+
+ .headsection{
+ 	background: url("images/home-bg.jpg") no-repeat center;
+ 	
+ }
+ 
